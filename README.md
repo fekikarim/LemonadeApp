@@ -13,7 +13,7 @@ A lightweight Android application built with Kotlin and Jetpack Compose that dem
   - [Open in Android Studio](#open-in-android-studio)
   - [Command-line build](#command-line-build)
 - [Run on device / emulator](#run-on-device--emulator)
-- [Project Structure](#project-structure)
+- [Project Structure](#project-structure-high-level)
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
@@ -38,9 +38,14 @@ Computer & Mobile Systems Engineering Student
 
 
 ## Demo
-Include screenshots/GIFs in `docs/screenshots/` and reference them here. Example:
+Include screenshots/GIFs in `app/demo/` and reference them here. Example:
 
-![Lemonade Screenshot](docs/screenshots/lemonade-1.png)
+| Demo 1 | Demo 2 |                  Demo 3                   |                 Demo 4                 |
+|---:|:---:|:-----------------------------------------:|:--------------------------------------:|
+| ![Home](app/demo/demo1.png) | ![Picking a lemon](app/demo/demo2.png) | ![Drink the lemonade](app/demo/demo3.png) | ![Restart](app/demo/demo4.png) |
+| Home / Pick a lemon | Picked lemon | Drink | Restart |
+
+*Figure: A short walkthrough — (1) Home / Pick a lemon, (2) Picked lemon, (3) Squeezing, (4) Drink & restart.*
 
 
 ## Key Features
