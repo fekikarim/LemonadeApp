@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy / app theme color names that your XML is expecting -->
+    <color name="colorPrimary">#F7C948</color>        <!-- yellow -->
+    <color name="colorPrimaryDark">#D9A400</color>    <!-- darker yellow -->
+    <color name="colorAccent">#FFB74D</color>         <!-- accent -->
+    <color name="colorAccentDark">#E58A00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FFF9F2</color>
+
+    <!-- Optional - Material3 style names you may want -->
+    <color name="lemonade_primary">#F7C948</color>
+    <color name="lemonade_onPrimary">#000000</color>
+    <color name="lemonade_secondary">#DCE775</color>
+    <color name="lemonade_background">#FFF9F2</color>
+</resources>

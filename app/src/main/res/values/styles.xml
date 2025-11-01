@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème principal : NoActionBar pour pouvoir utiliser notre toolbar personnalisée -->
+    <style name="Theme.Lemonade" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personnalise couleurs si tu veux -->
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryVariant">#F57C00</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
